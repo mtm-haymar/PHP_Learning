@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-//Day1-1/18/2024
+//Day1 -1/17/2024
 echo "Hello World!";
 
 //echo for output
